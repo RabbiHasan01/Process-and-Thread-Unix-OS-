@@ -1,0 +1,9 @@
+dup file: 1
+PING google.com (172.217.160.238) 56(84) bytes of data.
+64 bytes from del03s09-in-f14.1e100.net (172.217.160.238): icmp_seq=1 ttl=128 time=98.8 ms
+64 bytes from del03s09-in-f14.1e100.net (172.217.160.238): icmp_seq=2 ttl=128 time=97.2 ms
+64 bytes from del03s09-in-f14.1e100.net (172.217.160.238): icmp_seq=3 ttl=128 time=112 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 3209ms
+rtt min/avg/max/mdev = 97.167/102.601/111.859/6.578 ms
